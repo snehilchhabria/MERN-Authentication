@@ -6,9 +6,9 @@ import { authUser,
     getUserProfile,
     updateUserProfile, } from '../controllers/userController.js'
 
-router.post('/', authUser)
+router.post('/', registerUser)
 router.post('/auth', authUser)
-router.post('/auth', authUser)
-router.route('/profile', logoutUser).get(getUserProfile).put(updateUserProfile);
+router.post('/logout', logoutUser)
+router.route('/profile').get(getUserProfile).put(updateUserProfile);
 
 export default router;
