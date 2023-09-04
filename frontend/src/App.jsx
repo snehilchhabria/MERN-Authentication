@@ -1,11 +1,11 @@
 import Header from './components/header';
-
+import HomeScreen from './screens/HomeScreen';
 
 const App = () => {
   return (
     <>
     <Header />
-    <h1>MERN App</h1>
+    <HomeScreen />
     </>
   )
 }
