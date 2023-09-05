@@ -1,4 +1,4 @@
-import { configureStore } from 'reduxjs/toolkit';
+import { configureStore } from '@reduxjs/toolkit';
  const store = configureStore({
     reducer: {},
     middlware: (getDefaultMiddleware) => getDefaultMiddleware(),
@@ -6,4 +6,3 @@ import { configureStore } from 'reduxjs/toolkit';
  })
 
  export default store;
- 
