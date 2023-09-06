@@ -1,6 +1,6 @@
 # MERN-Authentication
 
 
-This repo is from MERN crasg course
+This repo is from MERN crash course
 
 
