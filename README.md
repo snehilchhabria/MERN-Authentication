@@ -13,4 +13,10 @@ This repo is from MERN crash course :
 
 In this crash course, we'll cover the fundamental concepts and practical skills you need to build dynamic web applications from scratch. Whether you're new to web development or want to expand your skills, you'll find this course valuable.
 
+ -> JWT Authentication
+
+ -> Server side rendering
+
+ -> protected routes
+
 
