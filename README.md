@@ -21,4 +21,6 @@ In this crash course, we'll cover the fundamental concepts and practical skills 
 
  -> frontend boilerplate
 
+ -> persistent storage
+
 
