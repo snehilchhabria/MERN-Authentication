@@ -19,4 +19,6 @@ In this crash course, we'll cover the fundamental concepts and practical skills 
 
  -> protected routes
 
+ -> frontend boilerplate
+
 
