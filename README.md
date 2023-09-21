@@ -23,4 +23,6 @@ In this crash course, we'll cover the fundamental concepts and practical skills 
 
  -> persistent storage
 
+ -> application deployment
+
 
